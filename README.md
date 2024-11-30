@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+Welcome to XYZ Hub! We Have made a new entry to the scripting community and would like to show you out works with this documentation.
